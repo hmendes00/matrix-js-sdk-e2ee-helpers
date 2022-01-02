@@ -1,5 +1,5 @@
 # matrix-js-sdk-e2ee-helpers
-This REPO is intent to help people having a hard time to setup e2ee using matrix-js-sdk.
+This REPO is intended to help people having a hard time to setup e2ee using matrix-js-sdk.
 
 # Before Getting Started
 
