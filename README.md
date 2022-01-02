@@ -1,7 +1,7 @@
 # matrix-js-sdk-e2ee-helpers
 This REPO is intent to help people having a hard time to setup e2ee using matrix-js-sdk.
 
-# DISCLAIMER
+# Before Getting Started
 
 I am not good at e2ee so I don't understand basic concepts of it. I tried to compile some of the functions that I am using that might help someone else as well.
 If you understand it and believe some parts could be improved, feel free to do so.
@@ -19,3 +19,9 @@ help them somehow.
 
 One of the libraries used for encryption is Olm so you will need to install it as well (at least I had to)
 (I AM ADDING MY CURRENT PACKAGE.JSON to this project as well)
+
+for Olm basically add this line to your dependencies list on package.json
+"olm": "https://packages.matrix.org/npm/olm/olm-3.2.1.tgz"
+
+You might have to play with you tsconfig/jsconfig. I am adding mine just in case.
+
