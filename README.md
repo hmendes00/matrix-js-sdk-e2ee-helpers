@@ -15,7 +15,7 @@ Every here reflects my experience setting up this in my Ionic + Vue project.
 It might not be exactly the same thing for someone else, but hopefully it will still
 help them somehow.
 
-#How to use it
+# How to use it
 
 One of the libraries used for encryption is Olm so you will need to install it as well (at least I had to)
 (I AM ADDING MY CURRENT PACKAGE.JSON to this project as well)
