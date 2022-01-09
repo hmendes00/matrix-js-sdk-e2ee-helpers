@@ -181,11 +181,20 @@ Again, I am not good at e2ee and I tried my best here to make this work and it f
 
 The following videos were recommended by [@nahakiole](https://github.com/nahakiole) and actually helped me to better understand basic concept of encryption itself.
 
-Secret Key Exchange (Diffie-Hellman): https://www.youtube.com/watch?v=NmM9HA2MQGI
-Instant Messaging und das Signalprotokoll: https://www.youtube.com/watch?v=DXv1boalsDI
-Double Ratchet Messaging Encryption - Computerphile: https://www.youtube.com/watch?v=9sO2qdTci-s
-What's Up With Group Messaging? - Computerphile: https://www.youtube.com/watch?v=Q0_lcKrUdWg
-End to End Encryption (E2EE) - Computerphile: https://www.youtube.com/watch?v=jkV1KEJGKRA
+Secret Key Exchange (Diffie-Hellman):
+https://www.youtube.com/watch?v=NmM9HA2MQGI
+
+Instant Messaging und das Signalprotokoll:
+https://www.youtube.com/watch?v=DXv1boalsDI
+
+Double Ratchet Messaging Encryption - Computerphile:
+https://www.youtube.com/watch?v=9sO2qdTci-s
+
+What's Up With Group Messaging? - Computerphile:
+https://www.youtube.com/watch?v=Q0_lcKrUdWg
+
+End to End Encryption (E2EE) - Computerphile:
+https://www.youtube.com/watch?v=jkV1KEJGKRA
 
 
 If this REPO helps 1 person, I will already be very happy :)
