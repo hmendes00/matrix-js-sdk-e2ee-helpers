@@ -1,6 +1,9 @@
 # matrix-js-sdk-e2ee-helpers
 This REPO is intended to help people having a hard time to setup e2ee using matrix-js-sdk.
 
+# Skeleton Project Using Ionic + Vue + Matrix-js-sdk
+[matrix-ionic-vue-e2ee-skeleton](https://github.com/hmendes00/matrix-ionic-vue-e2ee-skeleton)
+
 # Before Getting Started
 
 I am not good at e2ee so I don't understand basic concepts of it. I tried to compile some of the functions that I am using that might help someone else as well.
