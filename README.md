@@ -182,6 +182,10 @@ Again, I am not good at e2ee and I tried my best here to make this work and it f
 
 # E2EE Resources
 
+From [Matrix Channel](https://www.youtube.com/channel/UCin7rgh4DiVxnvMsgRJf74g):
+https://www.youtube.com/watch?v=QSeVHiN1dJE
+
+More Resources:
 The following videos were recommended by [@nahakiole](https://github.com/nahakiole) and actually helped me to better understand basic concept of encryption itself.
 
 Secret Key Exchange (Diffie-Hellman):
